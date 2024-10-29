@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import Q5U3ZLogomakrPng from '../../assets/4q5u3z-logomakr.png';
 import styles from './Header.module.scss';
 import className from 'classnames';

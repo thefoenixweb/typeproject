@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import styles from './gallery.module.scss';
 import className from 'classnames'; 
 import Homeimage2Jpeg from '../../../src/assets/homeimage2.jpeg';

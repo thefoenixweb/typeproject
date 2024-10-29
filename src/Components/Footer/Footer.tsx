@@ -1,5 +1,9 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
+
+
 import styles from './footer.module.scss';
-import cx from 'classnames';
+import className from 'classnames';
 import XLogoSvg from '../../assets/x  logo.svg';
 import YoutubeLogoSvg from '../../assets/youtube  logo.svg';
 import LineSvg from '../../assets/line.svg';
@@ -8,7 +12,7 @@ export interface FooterProps {
     className?: string;
 }
 
-export const Footer = ({ className }: FooterProps) => {
+export const Footer = ({ className }: FooterProps) => { 
     return (
         <div className={styles.footer}>
             <img className={styles.lineIcon} alt="" src={LineSvg} />

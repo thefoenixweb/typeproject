@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import styles from './update-item.module.scss';
 import classNames from 'classnames';
 import ChevronRightSvg from '../../assets/Chevron Right.svg';

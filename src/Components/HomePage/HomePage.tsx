@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import classNames from 'classnames';
 import ChevronRightSvg from '../../assets/chevron right.svg';
 import Homeimage1Jpeg from '../../assets/homeimage1.jpeg';
