@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+ 
 
 import Q5U3ZLogomakrPng from '../../assets/4q5u3z-logomakr.png';
 import styles from './Header.module.scss';
@@ -13,7 +13,7 @@ export interface HeaderProps {
 
 export const Header = ({ className, selectedButton }: HeaderProps) => {
     return (
-        <div className={styles.header}>
+        <div className={styles.header}> 
          <Link to={'/'} className={styles.logo}>
             <div className={styles.logo}>
                 <img className={styles.bydesignLogo} alt="" src={Q5U3ZLogomakrPng} />

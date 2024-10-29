@@ -3,5 +3,17 @@
   "references": [
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
-  ]
+  ],
+  "compilerOptions": {
+    "module": "commonjs",
+    "noUnusedLocals": false,
+    "noImplicitReturns": false,
+    "noUnusedParameters": false
+  },
+  "rules": {
+    "no-unused-vars": 0,
+    "@typescript-eslint/no-unused-vars": 0
+  }
 }
+
+
