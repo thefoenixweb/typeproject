@@ -2,7 +2,7 @@
 
 import classNames from 'classnames';
 import ChevronRightSvg from '../../assets/chevron right.svg';
-import Homeimage1Jpeg from '../../assets/hom_eimage1.jpeg';
+import Homeimage1Jpeg from '../../assets/homeimage1.jpeg';
 
 import styles from './home-page.module.scss';
 import { Header } from '../Header/Header';
