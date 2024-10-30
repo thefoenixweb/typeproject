@@ -2,7 +2,7 @@
 
 import styles from './update-item.module.scss';
 import classNames from 'classnames';
-import ChevronRightSvg from '../../assets/Chevron Right.svg';
+import ChevronRightSvg from '../../assets/chevron right.svg';
 import Homeimagedark14Jpeg from '../../assets/homeimagedark14.jpeg';
 
 export interface UpdateItemProps {
